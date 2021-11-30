@@ -1,0 +1,46 @@
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\TestGround.exe.config
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\TestGround.exe
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\TestGround.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\EntityFramework.dll
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\EntityModel.dll
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\EntityModel.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\EntityModel.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\EntityFramework.xml
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\obj\Debug\TestGround.csproj.AssemblyReference.cache
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\obj\Debug\TestGround.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\obj\Debug\TestGround.csproj.CopyComplete
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\obj\Debug\TestGround.exe
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\obj\Debug\TestGround.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\BL.dll
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\DAL.dll
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\BL.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\BL.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\DAL.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\DAL.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\Shared.dll
+C:\Users\vysyakha\source\repos\GlitterApp\TestGround\bin\Debug\Shared.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\TestGround.exe.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\TestGround.exe
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\TestGround.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\BL.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\DAL.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\EntityFramework.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\EntityModel.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\Shared.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\BL.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\BL.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\DAL.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\DAL.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\EntityModel.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\EntityModel.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\EntityFramework.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\bin\Debug\Shared.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\obj\Debug\TestGround.csproj.AssemblyReference.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\obj\Debug\TestGround.csproj.CoreCompileInputs.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\obj\Debug\TestGround.csproj.CopyComplete
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\obj\Debug\TestGround.exe
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\TestGround\obj\Debug\TestGround.pdb

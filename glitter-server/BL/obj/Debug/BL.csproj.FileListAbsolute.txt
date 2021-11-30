@@ -1,0 +1,66 @@
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\BL.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\BL.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\vysyakha\source\repos\GlitterApp\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\source\repos\GlitterApp\BL\obj\Debug\BL.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\obj\Debug\BL.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\DAL.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\EntityModel.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\EntityFramework.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\DAL.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\DAL.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\EntityModel.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\EntityModel.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\EntityFramework.xml
+C:\Users\vysyakha\source\repos\GlitterApp\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\BL.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\Shared.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\Shared.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\AutoMapper.dll
+C:\Users\vysyakha\source\repos\GlitterApp\BL\bin\Debug\AutoMapper.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\BL.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\BL.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\BL.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\AutoMapper.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\DAL.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\EntityModel.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\Shared.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\DAL.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\DAL.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\EntityModel.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\EntityModel.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\Shared.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\AutoMapper.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\obj\Debug\BL.csproj.CopyComplete
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\obj\Debug\BL.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\BL\obj\Debug\BL.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\BL.dll.config
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\BL.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\BL.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\AutoMapper.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\DAL.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\EntityModel.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\Shared.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\DAL.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\DAL.dll.config
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\EntityModel.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\EntityModel.dll.config
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\Shared.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\AutoMapper.xml
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.xml
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\obj\Debug\BL.csproj.CopyComplete
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\obj\Debug\BL.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\BL\obj\Debug\BL.pdb

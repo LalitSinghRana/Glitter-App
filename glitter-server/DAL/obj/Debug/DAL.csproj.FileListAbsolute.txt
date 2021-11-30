@@ -1,0 +1,51 @@
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\DAL.dll
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\DAL.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\obj\Debug\DAL.dll
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\obj\Debug\DAL.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\DAL.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\EntityModel.dll
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\EntityModel.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\EntityModel.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\Shared.dll
+C:\Users\vysyakha\source\repos\GlitterApp\DAL\bin\Debug\Shared.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\DAL.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\DAL.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\DAL.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\EntityModel.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\Shared.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\EntityModel.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\EntityModel.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\Shared.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\obj\Debug\DAL.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\DAL\obj\Debug\DAL.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\DAL.dll.config
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\DAL.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\DAL.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\EntityModel.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\Shared.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\EntityModel.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\EntityModel.dll.config
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\Shared.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.xml
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\obj\Debug\DAL.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\DAL\obj\Debug\DAL.pdb

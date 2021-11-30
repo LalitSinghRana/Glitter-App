@@ -1,0 +1,9 @@
+App Setup
+
+•	The production server for UI runs at http://localhost:4200/ and web api at https://localhost:44385 
+•	Change database connection string name in backend(web API) to your local server's name 
+
+How to Run the App?
+-	Download node_modules for angular first.
+-	Then "ng-serve" command from terminal for UI
+-	Web-Api is run from the Presentation startup project of the Solution 

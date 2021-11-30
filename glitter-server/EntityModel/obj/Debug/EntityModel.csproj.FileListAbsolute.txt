@@ -1,0 +1,41 @@
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\bin\Debug\EntityModel.dll.config
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\bin\Debug\EntityModel.dll
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\bin\Debug\EntityModel.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\bin\Debug\EntityFramework.dll
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\bin\Debug\EntityFramework.xml
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\obj\Debug\EntityModel.csproj.AssemblyReference.cache
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\obj\Debug\EntityModel.csproj.CopyComplete
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\obj\Debug\EntityModel.dll
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\obj\Debug\EntityModel.pdb
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\obj\Debug\EntityModel.Migrations.InitialCreate.resources
+C:\Users\vysyakha\source\repos\GlitterApp\EntityModel\obj\Debug\EntityModel.csproj.GenerateResource.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\bin\Debug\EntityModel.dll.config
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\bin\Debug\EntityModel.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\bin\Debug\EntityModel.pdb
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.Migrations.InitialCreate.resources
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.csproj.GenerateResource.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.csproj.CopyComplete
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.dll
+D:\github\OneDrive_2021-10-31\Week 7\VYSYAKH_3172191\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\bin\Debug\EntityModel.dll.config
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\bin\Debug\EntityModel.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\bin\Debug\EntityModel.pdb
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.xml
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.csproj.AssemblyReference.cache
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.Migrations.InitialCreate.resources
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.csproj.GenerateResource.cache
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.csproj.CopyComplete
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.dll
+D:\github\Assignments-Nagarro\Assignment-8-GlitterApp\Glitter App\glitter-server\EntityModel\obj\Debug\EntityModel.pdb
