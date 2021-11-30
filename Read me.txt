@@ -1,3 +1,11 @@
+#Glitter App
+
+A twitter like web app created using 
+*	dotNet MVC web API as backend (3 layered architecture)
+*	Angular as front end
+*	and MS SQL server as database
+
+
 App Setup
 
 •	The production server for UI runs at http://localhost:4200/ and web api at https://localhost:44385 
